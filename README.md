@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ayush!<br>
+- 👀 I’m interested in ... Video Game development, AppDev, webDev, AI and machines.<br>
+- 🌱 I’m currently learning ... React.js mainly and finding new things to learn.<br>
+- 💞️ I’m looking to collaborate on ... Web dev projects.<br>
+- 📫 How to reach me ... through twitter and instagram.<br>
+- ⚡ Fun fact: ... I'm not a nerd, I like going out but i can't :)
