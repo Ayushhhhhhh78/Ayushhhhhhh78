@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush!<br>
 - 👀 I’m interested in ... Video Game development, AppDev, webDev, AI and machines.<br>
-- 🌱 I’m currently learning ... Node JS<br>
-- 💞️ I’m looking to collaborate on ... Web dev projects.<br>
+- 🌱 I’m currently learning ... Gen AI<br>
+- 💞️ I’m looking to collaborate on ... backend of the project.<br>
 - 📫 How to reach me ... through twitter and instagram.<br>
 - ⚡ Fun fact: ... I love to learn Music
