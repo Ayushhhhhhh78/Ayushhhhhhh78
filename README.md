@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning ... Gen AI<br>
 - 💞️ I’m looking to collaborate on ... backend of the project.<br>
 - 📫 How to reach me ... through twitter and instagram.<br>
-- ⚡ Fun fact: ... I love to learn Music
