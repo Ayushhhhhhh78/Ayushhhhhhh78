@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush!<br>
 - 👀 I’m interested in ... Video Game development, AppDev, webDev, AI and machines.<br>
-- 🌱 I’m currently learning ... Gen AI<br>
-- 💞️ I’m looking to collaborate on ... backend of the project.<br>
-- 📫 How to reach me ... through twitter and instagram.<br>
+- 🌱 I’m currently learning ... ML<br>
+- 💞️ I’m looking to collaborate on ... any CS related technical project.<br>
+- 📫 How to reach me ... through X<br>
